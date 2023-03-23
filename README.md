@@ -1,5 +1,5 @@
 # Movies Site
-Website that shows a list of trending movies at the moment, developed with Vue for a company test.
+:clapper: Website that shows a list of trending movies at the moment, developed with Vue for a company test.
 
 The application was developed using <b>'The Movie DB' API</b>.
 
